@@ -11,10 +11,10 @@
 --->
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/tarekkheir/tarekkheir">
     <img align="center" height="200" width="535" src="https://github-readme-stats.vercel.app/api?username=tarekkheir&show_icons=true&theme=tokyonight&icon_color=tokyonight&hide=prs,issues&repo=github-readme-stats" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/tarekkheir/tarekkheir">
     <img align="center" height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarekkheir&layout=compact&langs_count=8&theme=tokyonight&repo=convoychat" />
   </a>
 </p>
