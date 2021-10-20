@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-[![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarekkheir&show_icons=true&theme=tokyonight&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarekkheir&show_icons=true&theme=tokyonight&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
