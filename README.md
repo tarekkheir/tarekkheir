@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tarek&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-[![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarek&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarek)](https://github.com/anuraghazra/github-readme-stats)
