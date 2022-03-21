@@ -13,10 +13,7 @@
 </p>
 
 
-
 ---
-
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=page.id">
 
 <img align="left" alt="C" src="https://user-images.githubusercontent.com/61886501/159160965-b01bb7be-c4ce-4500-8b33-a25bf2b8de71.png" width="25" height="25"/>
 
@@ -29,3 +26,6 @@
 <img align="left" alt="Css" src="https://user-images.githubusercontent.com/61886501/159161378-38d83f26-d252-4497-9dac-a705eda29a21.png" width="25" height="25"/>
 
 <img alt="bash" align="left" src="https://user-images.githubusercontent.com/61886501/159161639-20dae23d-15e9-44d8-95a8-3f8784400a1a.png" width="25" height="25" />
+
+
+<a href="https://www.linkedin.com/in/tarek-kheir-9608a61b7/"><img src="https://user-images.githubusercontent.com/61886501/159239899-84990769-f5ac-4c7a-81eb-86c21d7f18e1.svg" alt="Linkedin" height="30" width="120" align="right"/></a>
