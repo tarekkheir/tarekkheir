@@ -1,6 +1,6 @@
 <h2 align="center"> Hello, Welcome to my Github :v: </h2>
 
-<h4> I'm Tarek a Software Engineer from Paris recently graduated and I'm looking for a job where I can stand up and improve my skills. I'm focused on my goals while enjoying life and good food 😉 </h4> 
+<h4> I'm Tarek a Software Engineer from Paris recently graduated and I'm looking for a job where I can stand up and improve my skills. Dynamic and lively I'm focused on my goals while enjoying life and good food 😉 </h4> 
 
 
 <p align="center">
