@@ -1,6 +1,6 @@
 <h2 align="center"> Hello, Welcome to my Github :v: </h2>
 
-<h4> Hi I'm Tarek a Software Engineer from Paris recently graduated and I'm looking for a job where I can stand up and improve my skills. Dynamic and lively I'm focused on my goals while enjoying life and good food 😉 </h4> 
+<h4> I'm Tarek a Software Engineer from Paris recently graduated and I'm looking for a job where I can stand up and improve my skills. Dynamic and lively I'm focused on my goals while enjoying life and good food 😉 </h4> 
 
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 
 ---
-
+https://www.linkedin.com/in/tarek-kheir-9608a61b7/
 <img align="left" alt="C" src="https://user-images.githubusercontent.com/61886501/159160965-b01bb7be-c4ce-4500-8b33-a25bf2b8de71.png" width="25" height="25"/>
 
 <img align="left"  alt="Python" src="https://user-images.githubusercontent.com/61886501/159161350-e616a9bc-0edf-4bb7-8bfd-b04b2e04eb0a.png" width="25" height="25"/>
